@@ -1,0 +1,2 @@
+# coinmining
+coinmining
